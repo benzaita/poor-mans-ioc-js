@@ -1,0 +1,14 @@
+{
+  "name": "poor-mans-ioc",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
